@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Julia
 - 👀 I’m interested in security engineering, video games and motorsport
-- 🌱 I’m currently learning Python, JavaScript and C++
+- 🌱 I’m currently learning Python & JavaScript
 - 😄 Pronouns: she/her
 
 <!---
